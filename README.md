@@ -1,4 +1,5 @@
-###Diseño con Layout
+###Diseño con Layout###
+
 **Introducción**
 Los entornos de diseño, también conocidos  como entornos de maquetación o entornos de composición, son herramientas digitales que permiten a los usuarios crear y organizar elementos visuales.
 
