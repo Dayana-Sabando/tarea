@@ -27,12 +27,12 @@ public class Main extends Application {
             AnchorPane leftPane = new AnchorPane();
 
             // Cargar las imágenes
-            Image image1 = new Image("file:///C:/Users/User/eclipse-workspace/tarea/media/ejemplo.png");
-            Image image2 = new Image("file:///C:/Users/User/eclipse-workspace/tarea/media/prueba.jpg");
-            Image image3 = new Image("file:///C:/Users/User/eclipse-workspace/tarea/media/chico.jpg");
-            Image image4 = new Image("file:///C:/Users/User/eclipse-workspace/tarea/media/dama.png");
-            Image image5 = new Image("file:///C:/Users/User/eclipse-workspace/tarea/media/ejemplo2.jpg");
-            
+            Image image1 = new Image("file:///C:/Users/User/git/tarea/Tarea/media/ejemplo.png");
+            Image image2 = new Image("file:///C:/Users/User/git/tarea/Tarea/media/prueba.jpg");
+            Image image3 = new Image("file:///C:/Users/User/git/tarea/Tarea/media/chico.jpg");
+            Image image4 = new Image("file:///C:/Users/User/git/tarea/Tarea/media/dama.png");
+            Image image5 = new Image("file:///C:/Users/User/git/tarea/Tarea/media/ejemplo2.jpg");
+                                     
             // Crear ImageViews y ajustar tamaño
             ImageView imageView1 = new ImageView(image1);
             ImageView imageView2 = new ImageView(image2);
